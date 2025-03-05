@@ -15,4 +15,5 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ## Data and tools 
 Rockbusters internal data mangament system and SQL was used for the analysis. The data set includes information on Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses. Visualtions were created with the use of Tableau Public.
 
-Visualizations: 
+Visualizations: [Rockbuster]((https://public.tableau.com/app/profile/nicholas.martinez8501/viz/Rockbuster_17339982869560/CountriesbyCustomers))
+
